@@ -1,0 +1,21 @@
+c:\users\çağatay\documents\visual studio 2015\Projects\Bluetooth2\Bluetooth2\bin\Debug\Bluetooth2.exe.config
+c:\users\çağatay\documents\visual studio 2015\Projects\Bluetooth2\Bluetooth2\bin\Debug\Bluetooth2.exe
+c:\users\çağatay\documents\visual studio 2015\Projects\Bluetooth2\Bluetooth2\bin\Debug\Bluetooth2.pdb
+c:\users\çağatay\documents\visual studio 2015\Projects\Bluetooth2\Bluetooth2\obj\Debug\Bluetooth2.Form1.resources
+c:\users\çağatay\documents\visual studio 2015\Projects\Bluetooth2\Bluetooth2\obj\Debug\Bluetooth2.Properties.Resources.resources
+c:\users\çağatay\documents\visual studio 2015\Projects\Bluetooth2\Bluetooth2\obj\Debug\Bluetooth2.csproj.GenerateResource.Cache
+c:\users\çağatay\documents\visual studio 2015\Projects\Bluetooth2\Bluetooth2\obj\Debug\Bluetooth2.exe
+c:\users\çağatay\documents\visual studio 2015\Projects\Bluetooth2\Bluetooth2\obj\Debug\Bluetooth2.pdb
+C:\Users\çağatay\Documents\Visual Studio 2015\Projects\Bluetooth2\Bluetooth2\obj\Debug\Bluetooth2.csprojResolveAssemblyReference.cache
+C:\Users\çağatay\Desktop\Bluetooth2\Bluetooth2\Bluetooth2\bin\Debug\Bluetooth2.exe.config
+C:\Users\çağatay\Desktop\Bluetooth2\Bluetooth2\Bluetooth2\obj\Debug\Bluetooth2.exe
+C:\Users\çağatay\Desktop\Bluetooth2\Bluetooth2\Bluetooth2\obj\Debug\Bluetooth2.pdb
+C:\Users\çağatay\Desktop\ProgrammableHome\Bluetooth2\Bluetooth2\bin\Debug\Bluetooth2.exe.config
+C:\Users\çağatay\Desktop\ProgrammableHome\Bluetooth2\Bluetooth2\obj\Debug\Bluetooth2.exe
+C:\Users\çağatay\Desktop\ProgrammableHome\Bluetooth2\Bluetooth2\obj\Debug\Bluetooth2.pdb
+C:\Users\çağatay\Desktop\ProgrammableHome\Bluetooth2\Bluetooth2\bin\Debug\Bluetooth2.exe
+C:\Users\çağatay\Desktop\ProgrammableHome\Bluetooth2\Bluetooth2\bin\Debug\Bluetooth2.pdb
+C:\Users\çağatay\Desktop\ProgrammableHome\Bluetooth2\Bluetooth2\obj\Debug\Bluetooth2.csprojResolveAssemblyReference.cache
+C:\Users\çağatay\Desktop\ProgrammableHome\Bluetooth2\Bluetooth2\obj\Debug\Bluetooth2.Form1.resources
+C:\Users\çağatay\Desktop\ProgrammableHome\Bluetooth2\Bluetooth2\obj\Debug\Bluetooth2.Properties.Resources.resources
+C:\Users\çağatay\Desktop\ProgrammableHome\Bluetooth2\Bluetooth2\obj\Debug\Bluetooth2.csproj.GenerateResource.Cache
