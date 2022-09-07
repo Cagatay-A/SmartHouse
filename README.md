@@ -1,7 +1,7 @@
 # SmartHouse
-Smart-House
+
 Video;
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://youtu.be/2JmQP6yV-Zk"Now in Android: 55")
+https://www.youtube.com/watch?v=2JmQP6yV-Zk
 
 <img src="https://i.imgur.com/149GIpP.png" width="auto">
 
