@@ -5,7 +5,7 @@ https://youtu.be/gtjD5rXp1Cc
 
 <img src="https://i.imgur.com/149GIpP.png" width="auto">
 
-<img src="https://imgur.com/VKlq8Vp" width="auto">
+<img src="https://i.imgur.com/VKlq8Vp.jpeg" width="auto">
 
 <img src="https://i.imgur.com/ZdfTCMn.png" width="auto">
 
