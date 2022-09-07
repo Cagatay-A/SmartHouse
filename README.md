@@ -3,7 +3,7 @@ Smart-House
 Video;
 https://youtu.be/gtjD5rXp1Cc
 
-<img src="https://imgur.com/149GIpP" width="auto">
+<img src="https://i.imgur.com/149GIpP.png" width="auto">
 
 <img src="https://imgur.com/VKlq8Vp" width="auto">
 
